@@ -377,7 +377,9 @@ footer a{
         height: fit-content;
     }
 
-    .about-image{
+    .about-image1,
+    .about-image2,
+    .about-image3{
         width: 100%;
         min-height: 200px;
     }
